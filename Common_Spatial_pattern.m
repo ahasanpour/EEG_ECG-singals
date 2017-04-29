@@ -1,6 +1,6 @@
 function [ perc,kappa ] = csp_Datatest_IV_IIa()
 
-
+%common spatial pattern
 pathTrain='/home/ahp/MyMatlabProjects/IV_2a/A2Th.mat';
 pathTest='/home/ahp/MyMatlabProjects/IV_2a/A2Eh.mat';
 
